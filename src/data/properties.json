@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "category": "Condo",
+    "name": "Still Sukhumvit 20",
+    "location": "Sukhumvit 20",
+    "price_range": "30 - 252.3 mb",
+    "highlight": "STILL Sukhumvit 20\nA Private Luxury Residence in the Heart of Phrom Phong\nIntroducing STILL 20, a refined luxury residential development designed for those who value privacy, space, and understated elegance. Located in the prime Sukhumvit 20 neighborhood, just moments from Phrom Phong, this project offers a rare balance between urban convenience and serene living.\nSTILL 20 is a low-density luxury condominium with a limited number of residences, ensuring exclusivity and tranquility. Each unit is thoughtfully planned with generous layouts, high ceilings, and refined materials, creating a living environment that feels calm, timeless, and deeply residential.\nThe project reflects the concept of Quiet Luxury—where design is intentional, details are precise, and quality speaks without excess. Ideal for both end-users seeking a long-term home and investors looking for a rare freehold asset in one of Bangkok’s most established residential districts.\nKey Highlights\n• Prime Sukhumvit 20 location, near BTS Phrom Phong\n• Low-density project with high privacy\n• Spacious layouts suitable for family living\n• Timeless architecture and refined interiors\n• Strong long-term value in a high-demand residential area",
+    "features": [
+      "Ground Floor",
+      "Foyer of The House,Living Room,Concervatory Room,",
+      "Fayrer of the house,Pet Yard and Collector’s Garden",
+      "8th Floor",
+      "In House Retreat Retreat Lounge,Spa,Onsen,Playroom",
+      "Dressing Room,Orangery Dining Lounge,Grill Yard",
+      "and 8th Tarrace",
+      "26th-27th Floor",
+      "Health Club in Residence Poolside Lounge,Home Gym,",
+      "Still Pool,Thermal Pool,Pilatis & Yoga Studio",
+      "and Movie Room & Golf Room",
+      "Private Lift wth a single loaded corridor,One sevice lift,",
+      "Pet-Friendly Residence, 24 hour concierge service,",
+      "COnventional Parking for 217 cars (175%)",
+      "and Prime location near BTS Asoke and PhromPhong"
+    ],
+    "nearby_places": {
+      "malls": [
+        "Terminal 21 (900 m)",
+        "Emquatier (600 m)",
+        "Emsphere (300 m)",
+        "Singha Complex (1.8 km)",
+        "Exchange Tower (350 m)",
+        "GMM Tower (1.3 km)",
+        "Sono Thai Tower (2.7 km)"
+      ],
+      "parks": [
+        "Benjakitti Park (2 km)",
+        "Benchasiri Park (400 m)"
+      ],
+      "education": [
+        "Srinakharinwirot University (1.6 km)",
+        "NIST International School (1.8 km)"
+      ],
+      "hospitals": [
+        "Bumrungrad Hospital (2.1 km)",
+        "Sukhumvit Hospital (3 km)",
+        "Samitivej Sukhumvit Hospital (2.2 km)",
+        "Bangkok Hospital (4.7 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "2 Bedroom",
+        "size": "85 - 124 sq.m"
+      },
+      {
+        "type": "3 Bedroom",
+        "size": "134 - 218 sq.m"
+      },
+      {
+        "type": "4 Bedroom",
+        "size": "217 - 235 sq.m"
+      },
+      {
+        "type": "Junior Penthouse",
+        "size": "163 - 321 sq.m"
+      },
+      {
+        "type": "Penthouse",
+        "size": "439 sq.m"
+      }
+    ],
+    "metadata": {
+      "has_picture": false,
+      "has_plan": true,
+      "has_floor_plan": false,
+      "slug": "Still"
+    }
+  },
+  {
+    "id": 2,
+    "category": "Condo",
+    "name": "InterContinental Residences Bangkok Asoke",
+    "location": "Asok (Sukhumvit 16)",
+    "price_range": "40.8 - 213 mb",
+    "highlight": "InterContinental Residences Bangkok Asoke\nAn ultra-luxury residential development in the heart of Asoke–Sukhumvit,\ndistinguished by its prime location near BTS Asok and MRT Sukhumvit. \nAs the first freehold InterContinental Branded Residences in Bangkok,\nthe project offers only 88 exclusive units, ensuring exceptional privacy.\nDesigned with refined elegance and supported by five-star hotel-level \namenities and 24-hour concierge services, it perfectly caters to both \n+refined urban living and long-term investment.",
+    "features": [
+      "Ground Floor",
+      "25 Meter Pool,Hot and Cool Plunge Pool,Fitness,",
+      "Pilatis & Yoga Room,Co-orkimg Space,",
+      "Private Function Room with full pantry,Game Room,",
+      "Art Room,Meeting Room,Resident’ Lounge,Driver Room,",
+      "Parcel & Delivery Area",
+      "List of Essential Services",
+      "Enhance Essential Service Included in the common",
+      "area fee Weekly In-Unit Housekeeping,",
+      "24hour Concierge Sevice & on Call Tachnician,",
+      "Shuttle Service,Food and Parcel delivery to Unit,Doorman",
+      "and Pool Towel Service",
+      "A la carte Service",
+      "Services available at your fingertips for an additional fee,",
+      "Laundry Service,Extra Housekeeping,",
+      "Pre-Arrival Provisioning / Grocery Shopping,",
+      "Airport Transfer,Personal Trainer,Spa Therapist,",
+      "Florist,Private Party and Event Organizer"
+    ],
+    "nearby_places": {
+      "malls": [
+        "Terminal 21 (650 m)",
+        "Emquetier (1.4 km)",
+        "Emporium (1.4 km)",
+        "Emsphere (1.1 km)",
+        "Singha Complex (1.8 km)",
+        "Exchange Tower (300 m)",
+        "Interchange Tower (5.5 km)",
+        "GMM Tower (1.2km)",
+        "Sino-Thai Tower (850 m)"
+      ],
+      "parks": [
+        "Benjakitti Park (2 km)",
+        "Benchasiri Park (1.2 km)"
+      ],
+      "education": [
+        "Srinakharinwirot University (1.8 km)",
+        "NIST International School (1.8 km)",
+        "Wattana Wittaya Academy (1.4 km)"
+      ],
+      "hospitals": [
+        "Bumrungrad Hospital (2.1 km)",
+        "Samitivat Hospital (3 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "2 Bedroom",
+        "size": "139 sq.m"
+      },
+      {
+        "type": "3 Bedroom",
+        "size": "193 sq.m"
+      },
+      {
+        "type": "3 Bedroom(Duplex)",
+        "size": "236 sq.m"
+      },
+      {
+        "type": "3 Bedroom (Premier)",
+        "size": "254 sq.m"
+      },
+      {
+        "type": "Mali Penthouse",
+        "size": "453 sq.m"
+      },
+      {
+        "type": "Mali Penthouse",
+        "size": "547 sq.m"
+      }
+    ],
+    "metadata": {
+      "has_picture": true,
+      "has_plan": true,
+      "has_floor_plan": true,
+      "slug": "inter con"
+    }
+  },
+  {
+    "id": 3,
+    "category": "Condo",
+    "name": "Eighteen Seven (187)",
+    "location": "One Bangkok",
+    "price_range": "start 20.9 mb",
+    "highlight": "Eighteenseven Super Luxury Residences at One Bangkok\nDistinguished by its prime central-city location, the residence is pet-friendly\nand features expansive landscaped communal gardens with comprehensive\namenities.\n\nDesigned to offer exceptional privacy amid the vibrancy of urban life,\nthe project seamlessly connects to the Luxury Zone of One Bangkok,\nproviding effortless access to an elevated lifestyle at the heart of the city.",
+    "features": [
+      "Features & Facilities",
+      "Private Lift,gym,Concierge Sevice,Swimming Pool,",
+      "Lumpini Lounge,Meetingroom,Cooker hood,",
+      "Car Parking 175%"
+    ],
+    "nearby_places": {
+      "malls": [
+        "One Bangkok (110 m)",
+        "King Power City Boutique (700 m)",
+        "Parade Mall at One Bangkok (750 m)",
+        "Parade Pick-up/Drop-off Point (850 m)",
+        "The Storeys at One Bangkok (700 m)"
+      ],
+      "parks": [
+        "Lumpini Park (550 m)"
+      ],
+      "education": [
+        "Sunee Phitaya School (1.3 km)",
+        "Bon Kai Child Development Center (1.4 km)",
+        "Hallo Toto Deutsch schule (1.2 km)"
+      ],
+      "hospitals": [
+        "SLC Clinic (2.3 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "1 Bedroom",
+        "size": "63 sq.m"
+      }
+    ],
+    "metadata": {
+      "has_picture": false,
+      "has_plan": false,
+      "has_floor_plan": false,
+      "slug": "187"
+    }
+  },
+  {
+    "id": 4,
+    "category": "Condo",
+    "name": "Nimit Langsuan",
+    "location": "Langsuan (Pathumwan)",
+    "price_range": "start 35",
+    "highlight": "NIMIT Langsuan\nA Rare Freehold Residence in the Heart of Langsuan\nIntroducing NIMIT Langsuan, a super-luxury freehold condominium located on Langsuan Road, one of Bangkok’s most prestigious and tightly held residential enclaves. This address sits at the intersection of nature, culture, and the city’s most refined lifestyle—just moments from Lumphini Park, Ploenchit, and the CBD.\nNIMIT Langsuan is designed around the philosophy of timeless elegance and absolute privacy. With a limited number of residences, the project offers an intimate living environment where space, light, and craftsmanship are given true priority. Each residence features generous layouts, refined proportions, and premium materials curated for long-term living rather than short-term trends.\nThe architecture reflects understated sophistication, blending seamlessly with the character of Langsuan—quiet, green, and enduringly valuable. This is a residence created for discerning homeowners and investors who understand the rarity of freehold ownership in a prime low-supply location.\nKey Highlights\nPrime Langsuan Road location, near Lumphini Park\nFreehold ownership in a highly restricted residential zone\nLow-density project with high privacy\nSpacious layouts suitable for real living\nStrong long-term value in one of Bangkok’s most established luxury districts",
+    "features": [
+      "Features & Facilities",
+      "Outdoor Swimming Pool,Jacuzzi,Sun Deck,Fitness,",
+      "Steam Room & Sauna,Yoga Room,Library,",
+      "Multi-purpose room,Mail Room,Garden,CCTV,",
+      "Access Card Control and Car Park"
+    ],
+    "nearby_places": {
+      "malls": [
+        "Central World (1.5 km)",
+        "Central Embassy (1.3 km)",
+        "Big C Ratchadamri (1.9 km)",
+        "Mercury Tower (1.1 km)",
+        "Chamchuri Square (1.7 km)"
+      ],
+      "parks": [
+        "Lumpini Park (200 m)"
+      ],
+      "education": [
+        "Chulalongkorn University Demonstration School (2.6 km)",
+        "Triam Udom Suksa School (1.6 km)",
+        "Mahaprutaram Girls' School under the Royal Patronage of her Majesty the Queen",
+        "(3.7 km)"
+      ],
+      "hospitals": [
+        "Police General Hospital (1.5 km)",
+        "King Chulalongkorn Memorial Hospital (900 m)",
+        "Mahaesak Hospital (3.2 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "2 Bedroom",
+        "size": "78 - 130 sq.m"
+      },
+      {
+        "type": "3 Bedroom",
+        "size": "136 - 202 sq.m"
+      },
+      {
+        "type": "4 Bedroom",
+        "size": "336 sq.m"
+      },
+      {
+        "type": "Penthouse",
+        "size": "617 sq.m"
+      }
+    ],
+    "metadata": {
+      "has_picture": true,
+      "has_plan": true,
+      "has_floor_plan": false,
+      "slug": "Nimit Langsuan"
+    }
+  },
+  {
+    "id": 5,
+    "category": "Condo",
+    "name": "Upper House Residences Bangkok",
+    "location": "Lumpini (Wittayu Road)",
+    "price_range": "-",
+    "highlight": "Both projects are ultra-luxury freehold residences, located on one of the last remaining prime plots on Wireless Road, a location long regarded as one of Bangkok’s most prestigious and tightly held addresses.\nThe developments comprise two iconic towers rising 52 and 71 storeys, with a total of 395 exclusive residences. At over 280 metres in height, the towers will offer uninterrupted panoramic views of Lumphini Park and Benjakitti Park, redefining vertical luxury living in the city.\nConstruction of the superstructure has now officially commenced, with the first phase scheduled for completion from 2029 onward.\nThe projects are operated under Upper House, a globally renowned hospitality brand, and represent the first Upper House Branded Residences in Southeast Asia, setting a new benchmark for branded residential living in the region.\nDesign excellence is led by an internationally acclaimed team:\nArchitecture by Foster + Partners, landscape design by PLandscape, interiors by BAR Studio and PIA Interior, and a holistic wellness concept by GOCO, seamlessly integrating luxury, wellbeing, and contemporary living.\n\nTogether, these elements position Upper House as a rare, future-defining residential address on Wireless Road—where global design, hospitality, and ultra-luxury living converge.",
+    "features": [],
+    "nearby_places": {
+      "malls": [
+        "Emporium (3.9 km)",
+        "Emsphere (3.6 km)",
+        "Emquatier (3.8 km)",
+        "Emporium Tower (4 km )"
+      ],
+      "parks": [
+        "Lumpini Park (290 m)",
+        "The Royal Bangkok Sprot Club (2.2 km)",
+        "Wat Hua lampong (2.8 km)",
+        "Thai Red Cross Society (2.3 km)",
+        "Bangkok Art and Culture Center (3.3 km)"
+      ],
+      "education": [
+        "Chulalongkorn University Demonstration School",
+        "Chulalongkorn University",
+        "Triam Udom Suksa School (2.1 km )",
+        "Mahaprutaram Girls' School under the Royal Patronage of her Majesty the Queen (2.1 km)"
+      ],
+      "hospitals": [
+        "Police General Hospital (1.9 km)",
+        "King Chulalongkorn Memorial Hospital (1.3 km)",
+        "Mahaesak Hospital (3.6 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "Penthouse",
+        "size": "600-800 sq.m"
+      }
+    ],
+    "metadata": {
+      "has_picture": false,
+      "has_plan": false,
+      "has_floor_plan": false,
+      "slug": "Upper House"
+    }
+  },
+  {
+    "id": 6,
+    "category": "Condo",
+    "name": "Mavista PhromPhong",
+    "location": "PhromPhong(Sukhumvit 39)",
+    "price_range": "70 mb",
+    "highlight": "Mavista is an All-Penthouse Residences project.\nEach unit occupies an entire floor and features 5 bedrooms, a private, fully\n functional swimming pool, and an exceptionally high parking ratio of 357%.\n\nThe project is constructed by Si Phaya Construction, a contractor renowned\nfor delivering predominantly luxury-segment developments, reflecting \nthe project’s premium standards and quality.",
+    "features": [
+      "\"Basement 1st Floor",
+      "Waiting Area & Parking Lift",
+      "Ground Floor",
+      "The Lobby Lounge,Leisure area,Business Lounge,",
+      "Exclusive Lounge,Recreation Room,Garden,",
+      "Automatic Parking,Loading Area,Juristic Office,",
+      "Ground House,Delivery Area",
+      "15th Floor",
+      "Panoranic Gym,Yoga Studio,Forum Meeting Room"
+    ],
+    "nearby_places": {
+      "malls": [
+        "Emporium (900 m)",
+        "Emsphere (950 m)",
+        "Emquatier (1.3 km)",
+        "Central Embassy (3 km)"
+      ],
+      "parks": [
+        "Benchasiri Park (500 m)"
+      ],
+      "education": [
+        "Trinity International School (2.5 km)",
+        "Srinakharinwirot University Prasarnmit Demonstration School (2.6 km)",
+        "Srinakharinwirot University (3.1 km)",
+        "Wattana Wittaya Academy (3.4 km)",
+        "Sacred Heart Convent School (3.7 km)"
+      ],
+      "hospitals": [
+        "Samitivat Hospital (1.2 km)",
+        "Bumrungrad Hospital (3.8 km)",
+        "Bangkok Hospital (3.9 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "3 Bedroom",
+        "size": "204 sq.m"
+      },
+      {
+        "type": "4 Bedrorom (Continental",
+        "size": "321 sq.m"
+      },
+      {
+        "type": "5 Bedroom (Presidential)",
+        "size": "481 sq.m"
+      }
+    ],
+    "metadata": {
+      "has_picture": true,
+      "has_plan": true,
+      "has_floor_plan": true,
+      "slug": "Mavista"
+    }
+  },
+  {
+    "id": 7,
+    "category": "Condo",
+    "name": "Q1",
+    "location": "Sukhumvit(Nana)",
+    "price_range": "start 20 mb",
+    "highlight": "A 40-storey high-rise project located in the historic central business district\n of early Sukhumvit, directly connected to BTS Nana Station (0 meters) \nvia a private access link.\n\nThe development is surrounded by prominent high-rise buildings along\nSukhumvit Road and features a distinctive L-shaped architectural design.",
+    "features": [
+      "Features & Facilities",
+      "Sky Walk,Yoga studio,Fitness Center,Spa,Sky Lounge,",
+      "Sky park,Parking for  2 - 6 cars 2 / Unit"
+    ],
+    "nearby_places": {
+      "malls": [
+        "Nana Square (400 m )",
+        "Foodland (350 m)",
+        "Park Ventures (1 km)",
+        "Terminal 21 (1 km)",
+        "Central Embassy(1.1 km)",
+        "Central Chadlom (1.5 km)",
+        "EM Diatrict ( 2.2 km)"
+      ],
+      "parks": [
+        "Lumpini Park (2.1 km)",
+        "Benchakitti Park ( 1.7 km)"
+      ],
+      "education": [
+        "NISIT International School (1.2 km)",
+        "Wattana Wittaya Academy(1.2 km)",
+        "Mater Dei School (1.6 km)",
+        "Saint Dominic School (1.8 km)",
+        "Chulalongkorn University (3.9 km)",
+        "Srinakharinwirot University (1.9 km)"
+      ],
+      "hospitals": [
+        "Bamrundrad Hospital (1.1 km)",
+        "King Chulalongkorn Memorial Hospital (1.9 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "2 Bedroom",
+        "size": "92 - 125 sq.m"
+      },
+      {
+        "type": "3 Bedroom",
+        "size": "147 - 296 sq.m"
+      },
+      {
+        "type": "4 Bedroom",
+        "size": "288 - 296 sq.m"
+      },
+      {
+        "type": "Penthouse",
+        "size": "343 - 353 sq.m"
+      }
+    ],
+    "metadata": {
+      "has_picture": false,
+      "has_plan": false,
+      "has_floor_plan": false,
+      "slug": "Q1"
+    }
+  },
+  {
+    "id": 8,
+    "category": "Condo",
+    "name": "Scope Langsuan",
+    "location": "Langsuan",
+    "price_range": "38 mb",
+    "highlight": "A Super Luxury condominium situated in Thailand’s most prestigious \nand expensive prime area, distinguished by world-class architectural design \nand private lift access.\n\nThe project offers a full range of premium amenities and is surrounded \nby lush greenery, featuring a dog park, pet care facilities, and a study room,\nthoughtfully designed to support an elevated urban lifestyle.",
+    "features": [
+      "Ground Floor",
+      "Lobby,Waiting Lounge,Cold Storage (Behigh Juristic),",
+      "Ev Chaeging Docks,Car Washing Area,",
+      "Electric Vehicle Parking,Retail Shop,Drivers Lounge,",
+      "3th Floor",
+      "Private Storage,Auditorium,Wine Cellar,Cigar Storage,",
+      "Cloakroom,Dressing Room,2 Piano Room,Spa Rooms,",
+      "Onsen",
+      "4th Floor",
+      "Temperature-control Pool 7 x 3 m,Kids Pool,Kids Room,",
+      "Business Lounge & Meeting Rooms,Semi-Outdoor Lounge,",
+      "Sport Lounge & Bar,Fitness Center,Yoga Room,",
+      "Bodyweight Training Room",
+      "34th Floor",
+      "Sky Lounge,Private Kitchen & Dining Area,Barbecue Duck,",
+      "Sky Terrace",
+      "Inclusive Service",
+      "3 Times Weekly Housekeeping Service",
+      "24 Hours Front Office Attendant Service",
+      "24 Hours Valet Service",
+      "24 Hours Porter Service"
+    ],
+    "nearby_places": {
+      "malls": [
+        "Central Chidlom (400 m)",
+        "Central Embssy (650 m) Central World (900 m)",
+        "Siam Paragon (1.3 km)"
+      ],
+      "parks": [
+        "Lumpini Park ( 1.0 km)",
+        "The Royal Bangkok Sport Club (1.7 km)"
+      ],
+      "education": [
+        "Chulalongkorn University Demonstration School (1.7 km)",
+        "Chulalongkorn University (2.1 km)",
+        "Triam Udom Suksa School (1.7 km)",
+        "Patumwan Demonstration School (1.7 km)"
+      ],
+      "hospitals": [
+        "King Chulalongkorn Memorial Hospital (1.7 km)",
+        "Bumrungrad Hospital (1.6 km)",
+        "The Bangkok Christian Hospital (2.6 km)",
+        "BNH Hospital (2.7 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "1 Bedroom",
+        "size": "84 sq.m"
+      },
+      {
+        "type": "2 Bedroom",
+        "size": "153 - 162 sq.m"
+      },
+      {
+        "type": "3 Bedroom",
+        "size": "240 sq.m"
+      },
+      {
+        "type": "Penthouse",
+        "size": "419 - 443 sq.m"
+      }
+    ],
+    "metadata": {
+      "has_picture": false,
+      "has_plan": false,
+      "has_floor_plan": false,
+      "slug": "Scope Langsuan"
+    }
+  },
+  {
+    "id": 9,
+    "category": "Condo",
+    "name": "Scope Thonglor",
+    "location": "Thonglor",
+    "price_range": "226 mb",
+    "highlight": "Designed by Thomas Juul-Hansen, the renowned Danish designer, \nthe project places a strong emphasis on privacy, \nfeaturing only 18 exclusive units.\n\nIt incorporates double-glazed insulated Low-E glass with an air gap,\neffectively reducing heat, minimizing glare from sunlight, \nand filtering external noise for superior living comfort.",
+    "features": [
+      "Professional On-Site Laundry & Dry-Cleaning Service",
+      "Housekeeping Service (Three Times per Week)",
+      "Dedicated Executive Chef for Residents and Enjoy personalized,",
+      "made-to-order dining by an on-site chef, professional doorman",
+      "and porter services for seamless arrival assistance,",
+      "and exclusive valet parking with automated parking facilities."
+    ],
+    "nearby_places": {
+      "malls": [
+        "Gateway Ekkamai (1.0 km)",
+        "Donki Mall (1.4 km)",
+        "Market Place (1.6 km)",
+        "J Avenue Thonglor (1.5 km)",
+        "Emporium (1.2 km)",
+        "Emquatier (1.4 km)",
+        "Emshpere (1.6 km)"
+      ],
+      "parks": [],
+      "education": [
+        "St Andrews International School (3.2 km)",
+        "Wells International School (600 m)",
+        "Bangkok Prep International School (600 m)"
+      ],
+      "hospitals": [
+        "Sukhumvit Hospital (1.2 km)",
+        "Samitivaj Hospital (1.5 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "4 Bedroom (Penthouse)",
+        "size": "415 - 756.5 mb"
+      }
+    ],
+    "metadata": {
+      "has_picture": false,
+      "has_plan": false,
+      "has_floor_plan": false,
+      "slug": "Scope Thonglor"
+    }
+  },
+  {
+    "id": 10,
+    "category": "Condo",
+    "name": "Langsuan Residence",
+    "location": "Langsuan",
+    "price_range": "",
+    "highlight": "Langsuan Residence is located on Langsuan Road and is a residential\ncondominium situated in a prime business district at the heart of Bangkok.\nThe project is surrounded by embassies and offers excellent transportation \nconnectivity.",
+    "features": [],
+    "nearby_places": {
+      "malls": [],
+      "parks": [
+        "Lumpini Park",
+        "The Royal Bangkok Sprot Club",
+        "Wat Hua lampong",
+        "Thai Red Cross Society",
+        "Bangkok Art and Culture Center"
+      ],
+      "education": [
+        "Chulalongkorn University Demonstration School",
+        "Chulalongkorn University",
+        "Triam Udom Suksa School",
+        "Patumwan Demonstration School",
+        "Saint Joseph Convent School"
+      ],
+      "hospitals": [
+        "King Chulalongkorn Memorial Hospital",
+        "Bumrungrad Hospital",
+        "The Bangkok Christian Hospital",
+        "BNH Hospital"
+      ]
+    },
+    "units": [
+      {
+        "type": "-",
+        "size": "-"
+      }
+    ],
+    "metadata": {
+      "has_picture": false,
+      "has_plan": false,
+      "has_floor_plan": false,
+      "slug": "Langsuan Residences"
+    }
+  },
+  {
+    "id": 11,
+    "category": "Condo",
+    "name": "One 89 Wireless",
+    "location": "One Bangkok(ถนนวิทยุ)",
+    "price_range": "60 - 399 mb",
+    "highlight": "ONE89 Wireless is the crown jewel of residential living within One Bangkok,\nthe city’s most ambitious integrated district. It represents the pinnacle of ultra-luxury, \ncombining a world-class location with unmatched privacy.",
+    "features": [
+      "Features & Facilities",
+      "Private Lift 24 Hour,Fitness,Club House,Swimming Pool,",
+      "Fully Furnished,Garden,Washing Machine,Cable TV"
+    ],
+    "nearby_places": {
+      "malls": [
+        "One Bangkok (110 m)",
+        "King Power City Boutique (700 m)",
+        "Parade Mall at One Bangkok (750 m)",
+        "Parade Pick-up/Drop-off Point (850 m)",
+        "The Storeys at One Bangkok (700 m)"
+      ],
+      "parks": [
+        "Lumpini Park (550 m)"
+      ],
+      "education": [
+        "Sunee Phitaya School (1.3 km)",
+        "Bon Kai Child Development Center (1.4 km)",
+        "Hallo Toto Deutsch schule (1.2 km)"
+      ],
+      "hospitals": [
+        "SLC Clinic (2.3 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "2 Bedroom (Penthouse)",
+        "size": "140 sq.m"
+      },
+      {
+        "type": "3 Bedroom (Penthouse)",
+        "size": "261.5 sq.m"
+      },
+      {
+        "type": "3 Bedroom (Penthouse)",
+        "size": "218.12 sq.m"
+      }
+    ],
+    "metadata": {
+      "has_picture": false,
+      "has_plan": true,
+      "has_floor_plan": false,
+      "slug": "One 89"
+    }
+  },
+  {
+    "id": 12,
+    "category": "Condo",
+    "name": "Rosewood (SC Asset)",
+    "location": "Rama 4 (Lumpini)",
+    "price_range": "-",
+    "highlight": "-",
+    "features": [],
+    "nearby_places": {
+      "malls": [
+        "One Bangkok",
+        "Dusit Central Park",
+        "Silom Complex",
+        "The Parq",
+        "Lumpini Tower"
+      ],
+      "parks": [
+        "Deutsche Botschaft Bangkok",
+        "Embassy Of Malaysia",
+        "สถานทูตญี่ปุ่น"
+      ],
+      "education": [
+        "Saint Joseph Convent School",
+        "Saint Louis",
+        "Bangkok Christian College",
+        "Sacred Heart Convent School",
+        "Chulalongkorn University Demonstration School",
+        "Chulalongkorn University"
+      ],
+      "hospitals": [
+        "Chulalongkorn Hospital",
+        "Police General Hospital",
+        "MedPerk Hospital",
+        "Saint Louis Hospital"
+      ]
+    },
+    "units": [],
+    "metadata": {
+      "has_picture": false,
+      "has_plan": false,
+      "has_floor_plan": false,
+      "slug": "rosewood"
+    }
+  },
+  {
+    "id": 13,
+    "category": "House",
+    "name": "Narasiri Victoire",
+    "location": "Krungthep Kreetha",
+    "price_range": "65 - 120 mb",
+    "highlight": "The iconic “Apollo Fountain” inspired by the Sun God, draws its design influence from the Palace of Versailles. This grandeur is expressed through a monumental 140-meter-wide main gate arch and a landscape that feels as though France has been brought here in its entirety.\nThe common areas are lavishly designed, from the grand entrance to expansive garden spaces spanning over 8,000 sq.m.",
+    "features": [
+      "Grande Clubhouse,Half Olympic Swimming Pool,",
+      "Lobby Lounge & The Perlour,Atelier (Business Lounge),",
+      "Salon De The ,Panoramic Gym,Pet Jardin,Jardin Du Chateau,",
+      "LIV-24,Kid’s Playground,Outdoor Putting Green,Sansiri Backyard"
+    ],
+    "nearby_places": {
+      "malls": [
+        "Market Place KrungthepKreetha (2.4 km)",
+        "Little walk KrungthepKreetha (3.9 km)",
+        "Krungthep Kreetha Golf Course (4.0 km)",
+        "Nirvana Porch (3.8 km)"
+      ],
+      "parks": [],
+      "education": [
+        "Mandarin International School (1.1 km)",
+        "Wellington College International School Bangkok (3.7 km)",
+        "Assamchan College School (Hua mak) (5.3 km)"
+      ],
+      "hospitals": [
+        "Bangkok Hospital (10.5 km)",
+        "Praram 9 Hospital (11.4 km)",
+        "Samitivej Sukhumvit Hospital (12 km)",
+        "Bumrungrad Hospital (14.5 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "MANOIR NO.4 (2 floor)\n4 Bedroom / 5 Bathroom\n/ 4 Parking / 1 Maidroom",
+        "size": "453 sq.m"
+      },
+      {
+        "type": "MANOIR NO.5 (2 floor)\n4 Bedroom / 5 Bathroom\n/ 4 Parking / 2 Maidroom",
+        "size": "543 sq.m"
+      },
+      {
+        "type": "MANOIR NO.6 (2 floor)\n5 Bedroom / 6 Bathroom\n/ 4 Parking / 2 Maidroom",
+        "size": "678 sq.m"
+      }
+    ],
+    "metadata": {
+      "has_picture": true,
+      "has_plan": true,
+      "has_floor_plan": true,
+      "slug": "Narasiri Victoire"
+    }
+  },
+  {
+    "id": 14,
+    "category": "House",
+    "name": "Narinsiri Krungthep Kreetha",
+    "location": "KrungthepKreetha",
+    "price_range": "45 - 100 mb",
+    "highlight": "Narasiri Rama 9 - Krungthep Kreetha is a two-storey single detached housing project designed in the Georgian Revival style,reflecting the elegance of a classical golden era.\nThe architecture follows the principles of the Golden Ratio and symmetrical design, achieving perfect balance and harmony in every detail.\nHomes are planned with an open plan layout and grand spaces,ensuring excellent ventilation and abundant natural light throughout both floors.",
+    "features": [
+      "Features & Facilities",
+      "Kids & Pet Play Ground,LIV 24,Repton Yard,Gym & Pilates Studio,",
+      "Underground Cable System and Grandeur Garden Clubhouse,",
+      "Home Security,Dust Free House,Breeze Panel,EV Charger"
+    ],
+    "nearby_places": {
+      "malls": [
+        "The Nine Center Rama (7.2 km)",
+        "Little walk KrungthepKreetha (3.0 km)",
+        "Krungthep Kreetha Golf Course (3.3 km)",
+        "Nirvana Porch (2.9 km)"
+      ],
+      "parks": [],
+      "education": [
+        "Mandarin International School (1.7 km)",
+        "Wellington College International School Bangkok (3.0 km)",
+        "Assamchan College School (Hua mak) (6.4km)"
+      ],
+      "hospitals": [
+        "Bangkok Hospital (11.5 km)",
+        "Praram 9 Hospital (12.4 km)",
+        "Samitivej Sukhumvit Hospital (13.8 km)",
+        "Bumrungrad Hospital (17.8 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "L330 บ้านเดี่ยว 2 ชั้น \n 4 Bedroom / 5 Bathroom / \n1 maidroom / 3 Parking",
+        "size": "330 sq.m"
+      },
+      {
+        "type": "X430 บ้านเดี่ยว 2 ชั้น \n5 Bedroom / 6 Bathroom / \n1 maidroom / 4 Parking",
+        "size": "430 sq.m"
+      },
+      {
+        "type": "X530 บ้านเดี่ยว 2 ชั้น \n 5 Bedroom / 6 Bathroom / \n maidroom / 4 Parking",
+        "size": "530 sq.m"
+      }
+    ],
+    "metadata": {
+      "has_picture": true,
+      "has_plan": true,
+      "has_floor_plan": true,
+      "slug": "Narasiri Krung"
+    }
+  },
+  {
+    "id": 15,
+    "category": "House",
+    "name": "Narinsiri Rama9",
+    "location": "Rama 9 (ซอยศรีนครินทร์-ร่มเกล้า)",
+    "price_range": "39.9 - 80 mb",
+    "highlight": "Experience ultimate convenience near Srinakarin-Romklao Road, Little Walk Krungthep Kreetha,\nMRT Hua Mak, ARL Hua Mak, and the Sirat Expressway. The area is surrounded by key landmarks,\nincluding Market Place Krungthep Kreetha, Unico Grande Golf Course, \nWellington College International School, Samitivej Srinakarin Hospital, and Suvarnabhumi Airport",
+    "features": [
+      "Features & Facilities",
+      "Lakeside Clubhouse,Swimming Pool,Lounge,Gym &Yoga Room,",
+      "Greenwich Park,LIV 24,Underground Cable System and",
+      "Kid & Pet Playground"
+    ],
+    "nearby_places": {
+      "malls": [
+        "Market Place Krungthep Kreetha (2.6 km)",
+        "Unico Grande Golf Course  (3.5 km)",
+        "The Nine Center Rama 9 (8.1 km)"
+      ],
+      "parks": [],
+      "education": [
+        "Ascot International School (1.8 km)",
+        "Wellington College International School (3.2 km)",
+        "Mandarin International School (MIS) (4.1 km)"
+      ],
+      "hospitals": [
+        "Vejthani Hospital (7.5 km)",
+        "Bangkok Hospital (7.5 km)",
+        "Praram 9 Hospital (14.4 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "Bloomsbury บ้านเดี่ยว 2 ชั้น\n (ที่ดินเริ่มต้น 85 ตารางวา)\n 4 bedroom / 5 Bathroom / \n1 Livingroom / 1 Family Area\n / 1 Multi Purpose Room / \n3 Parking / 1 Maidroom",
+        "size": "330 sq.m"
+      },
+      {
+        "type": "Bershire บ้านเดี่ยว 2 ชั้น \n(ที่ดินเริ่มต้น 104 ตารางวา)\n5 bedroom / 6 Bathroom /\n1 Livingroom / 1 Family Area / \n1 Multi Purpose Room /\n 4 Parking / 1 Maidroom",
+        "size": "430 sq.m"
+      },
+      {
+        "type": "Bexley บ้านเดี่ยว 2 ชั้น \n(ที่ดินเริ่มต้น 135 ตารางวา)\n 5 bedroom / 6 Bathroom / \nDouble Volume Living / \n1 Family Area  / 4 Parking / \n1 Maidroom",
+        "size": "530 sq.m"
+      }
+    ],
+    "metadata": {
+      "has_picture": true,
+      "has_plan": true,
+      "has_floor_plan": true,
+      "slug": "Narasiri Rama 9"
+    }
+  },
+  {
+    "id": 16,
+    "category": "House",
+    "name": "Grand Bangkok Boulevard Krungthep Kreetha",
+    "location": "KrungthepKreetha",
+    "price_range": "45 - 80 mb",
+    "highlight": "Grand Bangkok Boulevard Krungthep Kreetha is located on Srinakarin–Romklao Road, commonly known as the New Krungthep Kreetha Road. The location offers excellent connectivity to Srinakarin Road, Ramkhamhaeng Road, and Rama 9 Road.\nIt is also conveniently close to Suvarnabhumi Airport.The surrounding area is well established and highly convenient with easy access to renowned international schools and leading hospitals.",
+    "features": [
+      "Clubhouse,Swimming Pool 25 x 5 m,Kids Pool,Jacuzzi,Lobby",
+      "Fitness,Co-Working Space,,Business Lounge,Family Lounge",
+      "Kid’s Room,Playground(Main Park),CCTV,สายไฟลงดินทั้งโครงการ",
+      "Free Wi-Fi (Club House),Smart Gate2 Main Gate,Security 24 hour"
+    ],
+    "nearby_places": {
+      "malls": [
+        "Big C Food Place Kheha romklao  (4.7 km)",
+        "The Paseo Mall Radglabang (7 km)",
+        "Robinson Lifestyle radkabang (7.4 km)",
+        "Market place Krungthep Kreetha11.4 km)",
+        "Tops market KrungthepKreeetha(11.6 km)",
+        "The Nine Center Rama 9  (15.5 km)"
+      ],
+      "parks": [],
+      "education": [
+        "Brighton College School Bangkok (12.3 km)",
+        "Wellington College International School Bangkok (9.5 km)",
+        "RAIS International School (14.7 km)",
+        "National Institute of Development Administration (13.4 km)",
+        "King Mongkut's Institute of Technology Ladkrabang (8.1 km)"
+      ],
+      "hospitals": [
+        "Kasemrad Hospital Ramkhamhaeng (10.9 km)",
+        "Samitivej Srinakarin Hospital (13.8 km)",
+        "Vibharam Hospital, Pattanakarn (14 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "SOLIANA \n(ที่ดินเริ่มต้น 102.4 ตร.วา)\n 4 Bedroom / 5 Bathroom / \n3 Parking / 1 Maidroom",
+        "size": "593 sq.m"
+      },
+      {
+        "type": "Cappella \n(ที่ดินเริ่มต้น 129.6 ตร.วา)\n 5 Bedroom / 6 Bathroom /\n4 Parking / 2 Maidroom / \nElevator",
+        "size": "620 sq.m"
+      },
+      {
+        "type": "Orvieto \n(ที่ดินเริ่มต้น 129.6 ตร.วา)\n5 Bedroom / 6 Bathroom / \n5 Parking / \n2 Maidroom(Maid Plaza) / \nElevator",
+        "size": "776 sq.m"
+      }
+    ],
+    "metadata": {
+      "has_picture": true,
+      "has_plan": true,
+      "has_floor_plan": true,
+      "slug": "GBB"
+    }
+  },
+  {
+    "id": 17,
+    "category": "House",
+    "name": "CINQ Royal Krungthep Kreetha",
+    "location": "KrungthepKreetha",
+    "price_range": "50 - 100 mb",
+    "highlight": "CINQ Royal Krungthep Kreetha is perfectly situated on the New Krungthep Kreetha Road,\nsurrounded by elite international schools, world-class golf courses, and renowned hospitals.\nThis high-potential location features a timeless design meticulously crafted to offer ultimat\n freedom of space, creating a home that truly inspires every moment of your life.",
+    "features": [
+      "Clubhouse,Swimming Pool,Kids Pool,Fitness,Milti-Purpose Lounge,",
+      "Business Lounge,Garden,Double -Gated Entrance,CCTV,",
+      "Security 24 hour"
+    ],
+    "nearby_places": {
+      "malls": [
+        "Market Today (3.0 km)",
+        "The Park Community Mall (2.4 km)",
+        "London Street Form Mk Group (6.4 km)",
+        "The Nine Rama 9 (6.8 km)",
+        "Max  Value (19.6 km)"
+      ],
+      "parks": [
+        "Unico Grande Golf Course (10.3 km)",
+        "Hua Mak Health Park (5.3 km)",
+        "Suan Piyamit Park (4.4 km)"
+      ],
+      "education": [],
+      "hospitals": [
+        "Brighton College International School Bangkok (850 m)",
+        "ABAC University (6.1 km)",
+        "Wellington International School (6.1 km)",
+        "Stamford International School ( 4.9 km)",
+        "Ascot International School (3.8 km)",
+        "Shrewsbury City Campus (11.9 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "Saint/Soul \n(117.5 - 191.8 ตร.วา)\n 5Bedroom / 6 Bathroom /\n4 Parking / Elevator",
+        "size": "707 sq.m"
+      },
+      {
+        "type": "Legacy \n(175.4 - 222.3 ตร.วา)\n6 Bedroom / 8 Bathroom /\n6 Parking / Elevator",
+        "size": "1,015 sq.m"
+      }
+    ],
+    "metadata": {
+      "has_picture": false,
+      "has_plan": false,
+      "has_floor_plan": false,
+      "slug": "cinq"
+    }
+  },
+  {
+    "id": 18,
+    "category": "House",
+    "name": "CINQ ROYAL The Eighteen Bangna",
+    "location": "Bangna",
+    "price_range": "65 - 30 mb",
+    "highlight": "The project’s design is rooted in the concept of Private Luxury Living Residences,meticulously \ncrafted to evoke a sense of warmth for every family while maintaining an unmistakable\naura of prestige. It seamlessly reflects modern luxury and a high quality of life, emphasizing \nexclusive privacy and a seamless connection to nature.",
+    "features": [
+      "Park",
+      "Pavilion",
+      "Playground & Tree House",
+      "Basketball Court"
+    ],
+    "nearby_places": {
+      "malls": [
+        "Mega Bangna (2.7 km)",
+        "IKEA Bangna (2.7 km)",
+        "Central Bandna (8.2 km)",
+        "Central Village (11.4 km)",
+        "Market Village Suvarnabhumi Airport",
+        "Bangkok Mall (6.8 km)"
+      ],
+      "parks": [
+        "Muang Keaw Golf Court (2.4 km)"
+      ],
+      "education": [
+        "Concordian international School (1.0  km)",
+        "D-prep international School (2.4 km)",
+        "SISB Suvarnabhumi-Singapore International School (3.9 km)",
+        "VERSO International School (10.9 km)",
+        "Bangkok Patana School (11.1 km)",
+        "Ics international School (6.2 km)"
+      ],
+      "hospitals": [
+        "Princ Hospital Suvarnabhumi (2.1 km)",
+        "Thainakarin Hospital (7.8 km)",
+        "Sikarin Hospital (9.5 km)",
+        "Chularat 1 Hospital (6.1 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "SOUL\n5 Bedrooms / 6 Bathrooms / \n4 Parking lots / 1 Maidrooms / \nPrivate Lift",
+        "size": "748 sq.m"
+      },
+      {
+        "type": "LEGACY\n6 Bedrooms / 8 Bathrooms /\n6 Parking lots / 2 Maidrooms /\nPrivate Lift",
+        "size": "1,070 sq.m"
+      }
+    ],
+    "metadata": {
+      "has_picture": true,
+      "has_plan": true,
+      "has_floor_plan": true,
+      "slug": "cinq bangna"
+    }
+  },
+  {
+    "id": 19,
+    "category": "House",
+    "name": "Sonle Residences",
+    "location": "Ratchadapisek",
+    "price_range": "200 - 400 mb",
+    "highlight": "A true Masterpiece limited to just five residences worldwide, where every square\ninch is meticulously crafted with unparalleled attention to detail. This world-class collaboration \nbrings together the global design expertise of HBA (Hirsch Bedner Associates)\nand IDIN Architects, one of Thailand's leading architectural firms. The result is a residence\nthat stands apart with its extraordinary living spaces and exquisite interior craftsmanship,\noffering a living experience unlike any other.\"",
+    "features": [
+      "Features & Facilities",
+      "Spa,Private Omakase Mall,Fitness,Meditation Room,Pool villa",
+      "Private Chef,Outsourcing Catering,",
+      "Health Consulting Service Private on Line Chat or VDO Call"
+    ],
+    "nearby_places": {
+      "malls": [
+        "Market Place Wongsawang (1.0 km)",
+        "Big C Wongsawang (1.2 km)",
+        "The Mall Lifestore Ngamwongwan (1.2 km)",
+        "Central Ladprao (5.0 km)",
+        "Major Cineplex Ratchayothin (5.6 km)",
+        "Crystal Design Center (CDC) (13.2 km)",
+        "Central Eastville (12.6 km)",
+        "EmQuartier & Emporium (15.2 km)"
+      ],
+      "parks": [
+        "Biriya Badminton Court (1.6 km)",
+        "FOGO FootballClub & SnookerClub (2.4 km)",
+        "Prachanukun Health Garden (550 km)"
+      ],
+      "education": [
+        "St.Stephen’s International School (550 km)",
+        "St.Andrews International School Dusit (8.0 km)",
+        "Prep International Kindergarten  (9.6 km)",
+        "RBIS International School Bangkok (10.2 km)",
+        "KIS International School (13.2 km)"
+      ],
+      "hospitals": [
+        "Kasemrad Prachacheun Hospital (850 m)",
+        "Vibhavadi Hospital (4.3 km)",
+        "Siriraj Piyamaharajkarun Hospital (11.9 km)",
+        "Rama 9 Hospital (13.0 km)",
+        "Vichaiyut Hospital (6.6 km)"
+      ]
+    },
+    "units": [
+      {
+        "type": "Lune บ้านเดี่ยว 3 ชั้น \n(พื้นที่เริ่มต้น 180 ตร.วา)\n5 Bedroom / 8 Bathroom /\n 3 Multi Purpose Room / \n5 Parking / Swimming Pool",
+        "size": "1,365 sq.m"
+      },
+      {
+        "type": "Soleit บ้านเดี่ยว 3 ชั้น \n(พื้นที่เริ่มต้น 200 ตร.วา)\n6 Bedroom / 9 Bathroom / \n3 Multi Purpose Room / \n6+8 Parking / Swimming Pool",
+        "size": "1,595 sq.m"
+      }
+    ],
+    "metadata": {
+      "has_picture": true,
+      "has_plan": false,
+      "has_floor_plan": false,
+      "slug": "Sonle"
+    }
+  }
+]
